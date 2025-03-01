@@ -36,8 +36,11 @@ ENV/
 data/raw/*
 data/processed/*
 data/features/*
+data/outputs/*
 models/*
 ddc/
+ddc-paper/
+simfile/
 *.pkl
 *.h5
 *.pth
